@@ -124,7 +124,7 @@ The result is intended as an assistive scam-screening tool, not as a definitive 
 
 
 
-🛠️ Technologies Used
+Technologies Used
 
 Programming
 
@@ -136,21 +136,15 @@ Framework
 
 Libraries
 
-•Pandas
-
-•NumPy
-
-•Scikit-learn
-
 •ReportLab
 
-Other Tools
+•Python Standard Library
+
+Tools
 
 •Git
 
 •GitHub
-
-•Jupyter
 
 •VS Code
 
@@ -239,8 +233,4 @@ B.Tech Computer Science Engineering — Data Science
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ⭐ If you find the project useful, consider giving the repository a star.
-
-
-
-
 
