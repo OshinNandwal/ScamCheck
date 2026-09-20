@@ -74,6 +74,28 @@ ScamCheck can classify suspicious content into categories such as:
 
 
 
+📸 Screenshots
+
+Main Interface
+
+The ScamCheck interface allows users to enter suspicious messages, emails, phone numbers, or links for analysis.
+
+&#x20;
+
+Scam Risk Assessment
+
+The analysis dashboard presents the overall assessment, risk dashboard, classification, and detected evidence.
+
+&#x20;
+
+Analytics \& Scan History
+
+ScamCheck provides category scores, scan history, analytics, and report export functionality.
+
+
+
+
+
 🧠 How It Works
 
 ScamCheck analyzes the supplied content using multiple signals, including:
